@@ -1,0 +1,2 @@
+webpackJsonp([0],{"2Lai":function(e,t){},xz5P:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a=n("XyMi");var i=function(e){n("2Lai")},r=Object(a.a)({name:"Blank"},function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("router-view")],1)},[],!1,i,"data-v-b0832cd0",null);t.default=r.exports}});
+//# sourceMappingURL=0.2118fa83545ca09bfbae.js.map
